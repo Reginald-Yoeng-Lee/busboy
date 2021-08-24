@@ -1,3 +1,5 @@
+_This project is almost totally the same as [busboy](https://github.com/mscdex/busboy). For now the only reason of the existence of this project is that we want to apply the latest code of the original project. As we know that the original one doesn't release new version for a long time. This project may be deprecated as soon as the original one publishes a new release._
+
 Description
 ===========
 
